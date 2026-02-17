@@ -1,0 +1,8 @@
+{
+  "name": "Thai Travel Catalog",
+  "description": "A premium travel booking platform featuring handpicked domestic and international tours with interactive itineraries and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
